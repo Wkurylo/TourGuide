@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="start">Discover Gdansk</string>
+    <string name="topic">Discover Gdansk</string>
+
+    <string name="category_see">SEE</string>
+    <string name="category_eat">EAT</string>
+    <string name="category_sleep">SLEEP</string>
+    <string name="category_shop">SHOP</string>
+
+    <!--SingleItemWithPlay Activity-->
+
+    <string name="webpage">more details</string>
+    <string name="map">check location</string>
+
+    <!--seeFragment-->
+
+    <!--Main Town Hall Gdanks-->
+    <string name="description_hall">Gdańsk Main Town Hall is a historic Ratusz located in the Gdańsk Main City borough of Śródmieście. It is one of the finest examples of the Gothic-Renaissance historic buildings in the city, built at the intersection of the Long Lane and Long Market, in the most popular part of Gdańsk. The Main Town Hall in Gdańsk houses the History Museum of the City of Gdańsk.</string>
+    <string name="name_hall">Main Town Hall</string>
+    <string name="address_hall">Długa 46/47 Street, Gdańsk City</string>
+    <string name="webpage_hall">http://www.mhmg.pl</string>
+    <string name="location_hall">geo:0,0?q=46/47 Dluga,Town+Hall, Gdansk</string>
+
+    <!--Second World War Museum-->
+    <string name="description_museum">World War II began with Germany’s attack on the Polish Military Transport Depot on the Westerplatte Peninsula in Gdansk (or the Free City of Danzig as it was in 1939) and so it’s appropriate that this remarkable museum, opened in March 2017, should have been built in the city. Nine years in the making, the whole experience is quite breath-taking and it really needs to be seen to be appreciated. Those interested in the topic can easily spend a whole day there, and even moving at a steady pace will need 2_3 hours just to see everything.</string>
+    <string name="name_museum">Museum of the Second World War</string>
+    <string name="address_museum">Władysława Bartoszewskiego 1 Street, Gdańsk City</string>
+    <string name="webpage_museum">http://www.muzeum1939.pl</string>
+    <string name="location_museum">geo:0,0?q=1 Wladyslawa+Bartoszewskiego,Museum+of+the+Second+World+War, Gdansk</string>
+
+    <!--European Solidarity Centre-->
+    <string name="description_solidarity">The huge construction you can see next to the entrance to the Gdansk Shipyards is the new European Solidarity Centre which opened on August 30, 2014, the 34th anniversary of the signing of the August Accords. The 5-storey building, which has been designed to give the impression of walls cracking and tilting and is covered in rust-coloured sheet metal reminiscent of a ship’s hull, has been a project many years in the making. It was finally signed into life in 2005 on the 25th anniversary of the signing of the August Accords when a Founding Act was signed in Solidarity Square by 29 joint-signatories including EU Commission chief Jose Manuel Barroso, Polish President Aleksander Kwasniewski and Solidarity legend and former President Lech Walesa.</string>
+    <string name="name_solidarity">European Solidarity Centre</string>
+    <string name="address_solidarity">Solidarności 1 Street, Gdańsk City</string>
+    <string name="webpage_solidarity">http://www.ecs.gda.pl</string>
+    <string name="location_solidarity">geo:0,0?q=1 Solidarnosci,European+Solidarity+Centre, Gdansk</string>
+
+    <!--The Crane-->
+    <string name="description_crane">The Crane is one of the defining symbols of Gdańsk and represents what little is left of the city great trading age. First mentioned in 1367 the original structure burnt down in 1442 before its current design was created in 1442 1444. As a working crane it was used to transfer cargoes and to put up masts on ships. At one time this was the biggest working crane in the world but it also served a defence function and as one of the gates to the city. It had a lifting capacity of 4 tonnes to a height of 11 metres and this was achieved by two huge wooden wheels at its heart each with a diameter of 6 metres. These wheels were originally powered by men walking inside of them to turn the lifting mechanism. It remained a working crane until the middle of the 19th century and was 80% destroyed in 1945 in the battle for Gdańsk.</string>
+    <string name="name_crane">The Crane</string>
+    <string name="address_crane">Szeroka 67/68 Street, Gdańsk City</string>
+    <string name="webpage_crane">http://www.nmm.pl</string>
+    <string name="location_crane">geo:0,0?q=67/68 Szeroka,The+Crane+Museum, Gdansk</string>
+
+    <!--Amber Museum-->
+    <string name="description_amber">Housed in Gdańsk’s mediaeval Fore-gate building (once home to the Prison Tower and Torture Chamber), this multi-story exhibit delves extensively into the history of Baltic amber. The impressive collection of “inclusions” (when bugs or plants are caught inside the amber) is intriguing to look at, and the many amber creations, from inkwells to spoons to a stunning Fender Stratocaster guitar, shows the material’s diversity. A large open room at the top of the building houses an impressive array of modern amber jewellery that appears more artistic than wearable. Many find the separate exhibits on the building’s past as a torture chamber uncomfortable – and considering the piped-in soundtrack of pained cries, we understand why – but they are a must-see, if for no other reason to find out what “thumb screwing” and a “heretic’s fork” are. The lower part of the building also housed the citys courthouse from where convicted criminals would be sentenced to hang on the square outside. Many of the exhibit rooms throughout the ancient building are small and cramped, and if you happen to visit on the same day as a school group it’s a nightmare, but it is well worth a visit nonetheless. In the summer months take advantage of the viewing platform in the tower.</string>
+    <string name="name_amber">Amber Museum</string>
+    <string name="address_amber"> Targ Węglowy 26 Street, Gdańsk City</string>
+    <string name="webpage_amber">http://www.mhmg.pl</string>
+    <string name="location_amber">geo:0,0?q=26 Targ+Weglowy,Amber+Museum, Gdansk</string>
+
+    <!--Polish Post Office-->
+    <string name="description_post">During the era of the Free City the Polish state was represented by various public bodies such as Polish Railways and the Polish Postal Service. The headquarters for that were here in the Polish Post Office. It is thought that not only was the building the home of the postal service but that it also acted as the centre of the Polish governments intelligence gathering services in the de-militarised zone. Badly damaged in the battle to flush the Polish postal "workers" out it was nearly completely destroyed by the end of the war. Reconstructed between 1949 and 1951, it is still a functioning post office which also houses a small museum dedicated to the events of September 1, 1939 and an exhibition of local postal history from the 18th century to the outbreak of WWII.</string>
+    <string name="name_post">Polish Post Office</string>
+    <string name="address_post">Obrońców Poczty Polskiej 2 Street, Gdańsk City</string>
+    <string name="webpage_post">http://www.mhmg.pl</string>
+    <string name="location_post">geo:0,0?q=2 Obroncow+Poczty+Polskiej,Post+Office, Gdansk</string>
+
+    <!--EatFragment-->
+
+    <!--Kubicki Restarurant Gdansk-->
+    <string name="description_kubicki">The oldest remaining restaurant in town dates back to 1918 when it traded as the Cafe International run by Bronislaw Kubicki and his family. A breathtaking remodelling has seen it combine period pieces like the fireplaces with a modern aesthetic look in which to enjoy Danzig/Gdansk dishes like herring with pickled cucumbers and capers and a Gdansk pork chop with cabbage and potatoes, while our most recent visit saw us enjoy a delicious herring starter following by a tasty roast duck with red cabbage. Very impressive from the food, to the ambience to the service and well worth a visit.</string>
+    <string name="name_kubicki">Kubicki Restaurant</string>
+    <string name="address_kubicki">Wartka 5 Street, Gdańsk City</string>
+    <string name="webpage_kubicki">http://www.restauracjakubicki.pl</string>
+    <string name="location_kubicki">geo:0,0?q=5 Wartka, Kubicki+Restauracja, Gdansk</string>
+
+    <!--Mercato Restarurant Gdansk-->
+    <string name="description_mercato">In a word – excellent. The Mercato is the in-house restaurant of the Hilton Gdansk hotel, but do not let that put you off. With a ground floor location opening out onto a terrace overlooking the river, this doesn’t feel like dining in a hotel in the slightest. The service is extremely professional as you would expect but it is the food that demands your visit. The regularly changing menu is wonderfully original and although you might recognise a lot of the Polish ingredients you’ll not have seen them combined as you will here. On our visit a tasty sorrel soup was followed by a truly delicious dish of wild boar bacon, smoked prunes, horseradish and mushrooms, while the stewed beef cheeks on our colleague’s plate looked equally appetising. We visited at lunch time but you could just as easily come to watch the light fade above the old town in the evening.</string>
+    <string name="name_mercato">Mercato Restaurant</string>
+    <string name="address_mercato">Targ Rybny 1 Street, Gdańsk City</string>
+    <string name="webpage_mercato">http://www.mercatorestauracja.pl</string>
+    <string name="location_mercato">geo:0,0?q=1 Targ+Rybny, Mercato+Restauracja, Gdansk</string>
+
+    <!--Brovarnia Restarurant Gdansk-->
+    <string name="description_brovarnia">Words can’t begin to do Brovarnia justice. If there’s a better beer in Poland we’d like to know about it, but not before we’ve finished road testing the menu. Indeed, the microbrewery is just one reason to visit. The chow here is top drawer with excellent mains to go with your beer such as traditional Gdansk duck, pork knuckle in beer and a beer bites menu that includes a selection of flavoured lards - from spicy pepper to plum. The waitstaff are great at their jobs too spinning from table to table laden with beer jugs and plate of simple but well-prepared food. Head up the stairs for something a little more formal.</string>
+    <string name="name_brovarnia">Brovarnia</string>
+    <string name="address_brovarnia">Szafarnia 9 Street, Gdańsk City</string>
+    <string name="webpage_brovarnia">http://www.brovarnia.pl</string>
+    <string name="location_brovarnia">geo:0,0?q=9 Szafarnia, Brovarnia, Gdansk</string>
+
+    <!--Goldwasser Restarurant Gdansk-->
+    <string name="description_goldwasser">Still one of our favourite places and one of the best places to take guests in Gdansk, this atmospheric riverside restaurant features dishes like duck, fresh fish and delicious homemade pierogi and bread along with locally produced beer served by multi-lingual service. Relax in the classic Gdansk interior or hit the garden the moment the sun appears to enjoy one of the best choices of properly prepared steak in the city in the shadow of the city’s signature Crane (Żuraw or Krantor). Souvenir hunters should keep an eye out for the traditional Danzig spirits which have been re-born under the German owner and the Goldwasser liquer box sets make for an excellent souvenir. Also open for breakfast with a choice of four breakfast sets - English, French, Continental and the Royal Polish Breakfast.</string>
+    <string name="name_goldwasser">Goldwasser</string>
+    <string name="address_goldwasser">Długie Pobrzeże 22 Street, Gdańsk</string>
+    <string name="webpage_goldwasser">http://www.goldwasser.pl</string>
+    <string name="location_goldwasser">geo:0,0?q=22 Dlugie+Pobrzeze, Goldwasser, Gdansk</string>
+
+    <!--SleepFragment-->
+
+    <!--Hilton Hotel Gdansk-->
+    <string name="description_hilton">While it looks unassuming from the outside, the Gdańsk Hilton proves a high-impact venue with all the pizzazz you’d expect. Set over five floors this class act features a rooftop pool, the largest conference area in town and rooms decked out with bouncy ‘serenity’ beds, free high-speed internet and 32 inch flatscreen TVs. Modern living doesn’t get any better, and while the very name conjures images of an anonymous mega-hotel, the Gdańsk Hilton proves an intimate haunt with an almost boutique/lifestyle mag spirit.</string>
+    <string name="name_hilton">Hilton Hotel</string>
+    <string name="address_hilton">Targ Rybny 1 Street, Gdańsk City</string>
+    <string name="webpage_hilton">http://www.hiltongdansk.pl</string>
+    <string name="location_hilton">geo:0,0?q=1 Targ+Rybny, Hilton+Hotel, Gdansk</string>
+
+    <!--Kamienica Gotyk Gdansk-->
+    <string name="description_gotyk">Situated on Gdańsk’s most picturesque street Kamienica Gotyk is the oldest house in the city (1451) with an original Gothic portal featuring two religious stones either side of the entrance steps; if you want history, you’re in the right place. Ring the buzzer for entry and find yourself ushered up the steep stairs into tidy rooms that include modern bathrooms and sketches of mediaeval Gdańsk. Church bells from the neighbouring St. Mary’s going dong in the background add to the experience while the basement holds a small shop selling artistic glassware.</string>
+    <string name="name_gotyk">Kamienica Gotyk</string>
+    <string name="address_gotyk">Mariacka 1 Street, Gdańsk City</string>
+    <string name="webpage_gotyk">http://gotykhouse.eu</string>
+    <string name="location_gotyk">geo:0,0?q=1 Mariacka, Kamienica+Gotyk, Gdansk</string>
+
+    <!--Hotel Gdańsk Boutique 5-->
+    <string name="description_boutique">We’ve long been fans of the Gdańsk thanks to its great location in a sandblasted granary building which stares out across the river onto the old town. Guests can choose between 5-star in the original 17th century granary ‘spichlerz’ part, which comes with rooms all hinting at the past with wooden beams and pictures of ‘Old Danzig’, or the adjacent 4-star ‘Yachting’ part, which is very 21st century and offers a contrasting modern design and feel, top-class spa facilities and conference rooms. Both parts are excellent as witnessed by the Spanish football team choice of the hotel as their Gdańsk base during Euro2012. As if that was not enough there is the highly recommended Brovarnia microbrewery and restaurant on the ground floor downstairs.</string>
+    <string name="name_boutique">Hotel Gdańsk Boutique 5</string>
+    <string name="address_boutique">Szafarnia 9 Street, Gdańsk City</string>
+    <string name="webpage_boutique">http://www.hotelgdansk.pl</string>
+    <string name="location_boutique">geo:0,0?q=9 Szafarnia, Boutique+Hotel, Gdansk</string>
+
+    <!--Radisson Blu Gdansk-->
+    <string name="description_blu">One of the best hotels in the Tri-city, the Radisson Blu comes with a ringside location overlooking the Neptune statue and rooms with plush fittings, cream and chocolate colours and hi-tech touches such as 40 channels to surf, flat screen TVs, safes and wifi. It looks fantastic, but to really impress someone then book into their 160 sq/m Presidential Apartment (complete with a separate room for your security team), or book into rooms 555 or 557 – featuring rooftop balconies overlooking Długi Targ. But don’t think this is your run-of-the-mill modern hotel; built around the remains of a 14th century tenement the Radisson oozes history, with hallways covered in pictures of old Danzig. You’ll also find an impressive fitness room in which to work off one of the best hotel breakfasts around.</string>
+    <string name="name_blu">Radisson Blu</string>
+    <string name="address_blu">Dlugi Targ 19 Street, Gdańsk City</string>
+    <string name="webpage_blu">http://www.radissonblu.com/hotel-gdansk</string>
+    <string name="location_blu">geo:0,0?q=19 Dlugi+Targ, Radisson+Blu, Gdansk</string>
+
+
+    <!--Shop Fragment-->
+
+    <!--Galeria Baltycka Gdansk-->
+    <string name="description_baltycka">Gdansk biggest and most popular shopping gallery can be found in the district of Wrzeszcz at the junction of the main Tri-city road (al. Grunwaldzka) and the main road to the airport (ul. Slowackiego). You’ll find over 200 stores, boutiques, cafes and restaurants set in a state of the art building with headline stores including a three-level HM, Peek and Cloppenberg, Tommy Hilfiger and Zara. Carrefour provide the supermarket while GB has the best food court in the city. There’s also on-site parking for 1,100 cars. The mall is opposite Gdansk-Wrzeszcz train station and can also be reached by trams 6, 9, 11 and 12 from Gdansk city centre while Neptun taxis charge approximately 30zl one-way.</string>
+    <string name="name_baltycka">Galeria Baltycka</string>
+    <string name="address_baltycka">Grunwaldzka 141 Street, Gdańsk City</string>
+    <string name="webpage_baltycka">http://www.galeriabaltycka.pl/en</string>
+    <string name="location_baltycka">geo:0,0?q=141 Grunwaldzka, Galeria+Baltycka, Gdansk</string>
+
+    <!--Galeria Sztuki Kaszubskiej Gdansk-->
+    <string name="description_kaszubska">A fantastic little place if you are looking for local handicrafts to take home as gifts. The business is run by a mother and daughter and on certain days you will even find a granddaughter present. The daughter is a designer while the mother makes all the clothes by hand. Lots of wonderful gifts all based on the local Kashubian region traditions.</string>
+    <string name="name_kaszubska">Galeria Sztuki Kaszubskiej</string>
+    <string name="address_kaszubska">Swietego Ducha 48 Street, Gdańsk City</string>
+    <string name="webpage_kaszubska">http://www.gskart.pl</string>
+    <string name="location_kaszubska">geo:0,0?q=48 Swietego+Ducha, Gdansk</string>
+
+    <!--Szafa Gdanska-->
+    <string name="description_szafa">A wide selection of old Danzig photos, books, post cards, images, graphics, albums and assorted handmade curios.</string>
+    <string name="name_szafa">Szafa Gdanska</string>
+    <string name="address_szafa">Garbary 14/1 Street, Gdańsk City</string>
+    <string name="webpage_szafa">http://www.szafagdanska.pl</string>
+    <string name="location_szafa">geo:0,0?q=14/1 Garbary, Szafa+Gdanska, Gdansk</string>
+
+</resources>
